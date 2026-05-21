@@ -1,4 +1,4 @@
-# 🚀 Management Trainee (MT) - Career Learning Registry
+# 🚀 Career Growth Learning Registry
 
 Welcome! This repository serves as the centralized archive for all my **Management Trainee (MT)** career path learning materials, VS Code practice implementations, and project documentation. Every single task is structured cleanly into designated folders and is directly linked to my `@Career_Path` GitHub Project board.
 

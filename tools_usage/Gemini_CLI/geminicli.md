@@ -1,4 +1,3 @@
-```markdown
 # Gemini CLI Learning Project 🚀
 
 Personal learning documentation for mastering and building projects with Google's official **Gemini CLI (Command Line Interface)**.
@@ -23,7 +22,6 @@ Gemini CLI requires **Node.js (Version 18.0.0 or higher)** to function correctly
 To check if Node.js is already installed on your system, open your terminal (Terminal, PowerShell, or Bash) and execute the following command:
 ```bash
 node -v
-
 ```
 
 #### Clean Installation / Update:
